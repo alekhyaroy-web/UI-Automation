@@ -24,7 +24,7 @@ pipeline {
 
         stage('Run Automation Tests') {
             steps {
-                bat 'mvn test'
+                bat 'mvn test -Dheadless=true'
             }
         }
 
