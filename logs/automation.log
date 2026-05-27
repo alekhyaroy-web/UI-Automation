@@ -1,0 +1,207 @@
+2026-05-17 12:34:55 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:35:01 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:35:10 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:35:10 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:35:10 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:35:20 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:35:20 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:36:13 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:36:15 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:36:28 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:36:28 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:36:29 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:36:39 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:36:39 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:38:57 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:38:58 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:39:05 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:39:05 INFO  [LoggerUtil] - test1779001745740@gmail.com
+2026-05-17 12:39:05 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:39:05 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:39:16 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:39:16 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:43:12 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:43:13 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:43:21 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:43:21 INFO  [LoggerUtil] - test1779002001625@gmail.com
+2026-05-17 12:43:21 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:44:57 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:44:58 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:45:07 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:45:07 INFO  [LoggerUtil] - test1779002107484@gmail.com
+2026-05-17 12:45:07 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:45:51 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:45:51 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:47:12 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:47:13 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:47:19 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:47:19 INFO  [LoggerUtil] - test1779002239400@gmail.com
+2026-05-17 12:47:19 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:47:22 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:47:23 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:47:28 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:50:11 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:50:12 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:50:21 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:50:21 INFO  [LoggerUtil] - test1779002421466@gmail.com
+2026-05-17 12:50:21 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:50:21 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:51:05 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:51:12 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 12:51:15 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:53:03 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:53:04 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:53:18 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:53:18 INFO  [LoggerUtil] - test1779002598206@gmail.com
+2026-05-17 12:53:18 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:54:02 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:54:02 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:54:09 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 12:54:10 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:54:33 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:54:34 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:54:41 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:54:42 INFO  [LoggerUtil] - test1779002681975@gmail.com
+2026-05-17 12:54:42 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:54:43 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:54:43 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:54:47 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 12:54:49 INFO  [LoggerUtil] - Closing the browser
+2026-05-17 12:55:52 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:55:53 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:56:04 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:56:04 INFO  [LoggerUtil] - test1779002764650@gmail.com
+2026-05-17 12:56:04 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:56:04 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:56:06 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 12:56:11 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 12:58:11 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 12:58:12 INFO  [LoggerUtil] - Opening Url
+2026-05-17 12:58:21 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 12:58:21 INFO  [LoggerUtil] - test1779002901019@gmail.com
+2026-05-17 12:58:21 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 12:59:05 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 12:59:05 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 13:01:12 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:01:13 INFO  [LoggerUtil] - Opening Url
+2026-05-17 13:01:20 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 13:01:20 INFO  [LoggerUtil] - test1779003080400@gmail.com
+2026-05-17 13:01:20 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 13:01:23 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 13:01:23 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 13:01:27 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 13:13:15 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:13:16 INFO  [LoggerUtil] - Opening Url
+2026-05-17 13:13:29 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 13:13:29 INFO  [LoggerUtil] - test1779003809078@gmail.com
+2026-05-17 13:13:29 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 13:13:32 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 13:13:32 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 13:14:53 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:14:54 INFO  [LoggerUtil] - Opening Url
+2026-05-17 13:15:01 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 13:15:01 INFO  [LoggerUtil] - test1779003901833@gmail.com
+2026-05-17 13:15:02 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 13:15:02 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 13:15:03 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 13:15:08 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 13:15:14 INFO  [LoggerUtil] - Google Ad not present
+2026-05-17 13:17:31 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:17:44 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:22:59 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:24:08 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:28:54 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:29:45 INFO  [LoggerUtil] - Setting up driver
+2026-05-17 13:29:50 INFO  [LoggerUtil] - Opening Url
+2026-05-17 13:29:54 INFO  [LoggerUtil] - Sending name and email address
+2026-05-17 13:29:55 INFO  [LoggerUtil] - test1779004794717@gmail.com
+2026-05-17 13:29:55 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-17 13:29:57 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-17 13:29:58 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-17 13:30:02 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-17 13:30:08 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 11:39:13 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 11:39:22 INFO  [LoggerUtil] - Opening Url
+2026-05-23 11:39:27 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 11:39:27 INFO  [LoggerUtil] - test1779516567298@gmail.com
+2026-05-23 11:39:27 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 11:39:27 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 11:39:29 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 11:55:39 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 11:55:43 INFO  [LoggerUtil] - Opening Url
+2026-05-23 11:55:48 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 11:55:48 INFO  [LoggerUtil] - test1779517548127@gmail.com
+2026-05-23 11:55:48 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 11:55:48 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 11:55:49 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 11:55:53 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-23 11:55:58 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 11:56:01 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:00:09 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:00:13 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:00:18 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:00:18 INFO  [LoggerUtil] - test1779517818873@gmail.com
+2026-05-23 12:00:19 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:00:19 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:00:21 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:00:23 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:04:26 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:04:30 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:04:36 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:04:36 INFO  [LoggerUtil] - test1779518076118@gmail.com
+2026-05-23 12:04:36 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:04:38 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:04:38 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:04:41 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:08:39 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:08:43 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:08:46 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:08:46 INFO  [LoggerUtil] - test1779518326112@gmail.com
+2026-05-23 12:08:46 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:08:46 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:08:47 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:08:49 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-23 12:08:54 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 12:08:57 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:15:18 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:15:21 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:15:24 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:15:24 INFO  [LoggerUtil] - test1779518724654@gmail.com
+2026-05-23 12:15:24 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:15:24 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:15:25 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:15:27 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-23 12:15:33 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 12:15:35 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:17:23 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:17:27 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:17:30 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:17:30 INFO  [LoggerUtil] - test1779518850473@gmail.com
+2026-05-23 12:17:30 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:17:31 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:17:31 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:17:33 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-23 12:17:39 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 12:17:41 INFO  [LoggerUtil] - Closing the browser
+2026-05-23 12:25:32 INFO  [LoggerUtil] - Setting up driver
+2026-05-23 12:25:35 INFO  [LoggerUtil] - Opening Url
+2026-05-23 12:25:38 INFO  [LoggerUtil] - Sending name and email address
+2026-05-23 12:25:38 INFO  [LoggerUtil] - test1779519338757@gmail.com
+2026-05-23 12:25:38 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-23 12:25:38 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-23 12:25:39 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-23 12:25:41 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-23 12:25:48 INFO  [LoggerUtil] - Google Ad not present
+2026-05-23 12:25:50 INFO  [LoggerUtil] - Closing the browser
+2026-05-27 12:10:16 INFO  [LoggerUtil] - Setting up driver
+2026-05-27 12:12:38 INFO  [LoggerUtil] - Setting up driver
+2026-05-27 12:14:54 INFO  [LoggerUtil] - Setting up driver
+2026-05-27 12:15:01 INFO  [LoggerUtil] - Opening Url
+2026-05-27 12:15:05 INFO  [LoggerUtil] - Sending name and email address
+2026-05-27 12:15:06 INFO  [LoggerUtil] - test1779864305924@gmail.com
+2026-05-27 12:15:06 INFO  [LoggerUtil] - Clicking on SignUp button.
+2026-05-27 12:15:06 INFO  [LoggerUtil] - Validating Account Information Text appearing
+2026-05-27 12:15:07 INFO  [LoggerUtil] - Checking and selecting label as per first name
+2026-05-27 12:15:12 INFO  [LoggerUtil] - Verifying Account Created Text
+2026-05-27 12:15:18 INFO  [LoggerUtil] - Google Ad not present
+2026-05-27 12:15:21 INFO  [LoggerUtil] - Closing the browser
