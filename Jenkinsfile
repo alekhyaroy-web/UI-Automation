@@ -12,7 +12,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/alekhyaroy-web/UI-Automation.git'
+                    url: 'https://github.com/alekhyaroy-web/UI-Automation.git'
             }
         }
 
@@ -31,24 +31,22 @@ pipeline {
         stage('Generate Allure Report') {
             steps {
                 allure includeProperties: false,
-                jdk: '',
-                results: [[path: 'allure-results']]
+                       jdk: '',
+                       results: [[path: 'allure-results']]
             }
         }
-
     }
 
-post {
+    post {
 
-    success {
-
-        emailext (
-            subject: "UI Automation Suite - Allure Report",
-
-            body: """
+        success {
+            withCredentials([usernamePassword(credentialsId: 'email-creds',
+                                              usernameVariable: 'EMAIL_USER',
+                                              passwordVariable: 'EMAIL_PASS')]) {
+                emailext (
+                    subject: "UI Automation Suite - Allure Report",
+                    body: """
 Dear Team,
-
-I hope you are doing well.
 
 Please find the latest execution report for the UI Automation Suite below.
 
@@ -63,30 +61,24 @@ ${env.BUILD_URL}
 Allure Report:
 ${env.BUILD_URL}allure
 
-The report contains:
-- Test execution summary
-- Passed/Failed test cases
-- Execution timeline
-- Detailed logs and validations
-
-Please review the report and let me know if any further analysis is required.
-
 Best Regards,
 Alekhya Roy
 """,
+                    to: "receiver@gmail.com",
+                    from: "${EMAIL_USER}",
+                    replyTo: "${EMAIL_USER}"
+                )
+            }
+            echo 'Automation Execution Successful'
+        }
 
-            to: "receiver@gmail.com"
-        )
-
-        echo 'Automation Execution Successful'
-    }
-
-    failure {
-
-        emailext (
-            subject: "UI Automation Suite - Automation Failed",
-
-            body: """
+        failure {
+            withCredentials([usernamePassword(credentialsId: 'email-creds',
+                                              usernameVariable: 'EMAIL_USER',
+                                              passwordVariable: 'EMAIL_PASS')]) {
+                emailext (
+                    subject: "UI Automation Suite - Automation Failed",
+                    body: """
 Dear Team,
 
 The latest UI Automation Suite execution has failed.
@@ -104,15 +96,16 @@ ${env.BUILD_URL}
 Best Regards,
 Alekhya Roy
 """,
+                    to: "subhajit.pramanik@codecloudds.com",
+                    from: "${EMAIL_USER}",
+                    replyTo: "${EMAIL_USER}"
+                )
+            }
+            echo 'Automation Execution Failed'
+        }
 
-            to: "subhajit.pramanik@codecloudds.com"
-        )
-
-        echo 'Automation Execution Failed'
+        always {
+            archiveArtifacts artifacts: 'allure-results/**', allowEmptyArchive: true
+        }
     }
-
-    always {
-        archiveArtifacts artifacts: 'allure-results/**', allowEmptyArchive: true
-    }
-}
 }
