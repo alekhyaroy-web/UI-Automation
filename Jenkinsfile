@@ -96,7 +96,7 @@ ${env.BUILD_URL}
 Best Regards,
 Alekhya Roy
 """,
-                    to: "subhajit.pramanik@codecloudds.com",
+                    to: "subhajit.pramanik@codeclouds.com",
                     from: "${EMAIL_USER}",
                     replyTo: "${EMAIL_USER}"
                 )
