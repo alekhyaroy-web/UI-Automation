@@ -64,7 +64,7 @@ ${env.BUILD_URL}allure
 Best Regards,
 Alekhya Roy
 """,
-                    to: "receiver@gmail.com",
+                    to: "subhajit.pramanik@codeclouds.com",
                     from: "${EMAIL_USER}",
                     replyTo: "${EMAIL_USER}"
                 )
